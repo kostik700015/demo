@@ -1,0 +1,134 @@
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\nunit.framework.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Advertisements.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Analytics.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Graphs.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.HoloLens.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Networking.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Purchasing.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.TestRunner.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Timeline.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.UI.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.VR.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Advertisements.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Purchasing.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.UI.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Networking.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.TestRunner.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\nunit.framework.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.Timeline.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.HoloLens.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.VR.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\obj\Debug\Assembly-CSharp.dll
+C:\Users\kostik\Desktop\фотки для модели\NN and Ga Cars Drive\obj\Debug\Assembly-CSharp.pdb
+F:\ДИПЛОМ\Diploma\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+F:\ДИПЛОМ\Diploma\obj\Debug\Assembly-CSharp.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Assembly-CSharp.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Assembly-CSharp.pdb
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\nunit.framework.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Advertisements.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Analytics.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Graphs.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.HoloLens.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Networking.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Purchasing.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.TestRunner.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Timeline.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.UI.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.VR.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Advertisements.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Analytics.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.HoloLens.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Networking.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Purchasing.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.TestRunner.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Timeline.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.UI.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.Cecil.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.SerializationLogic.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.DataContract.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\ExCSS.Unity.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.UNetWeaver.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.CecilTools.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.UI.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.UI.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Networking.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Networking.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.TestRunner.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.TestRunner.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\nunit.framework.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.Timeline.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.Timeline.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.HoloLens.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.HoloLens.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.VR.xml
+F:\ДИПЛОМ\Diploma\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+F:\ДИПЛОМ\Diploma\obj\Debug\Assembly-CSharp.pdb
